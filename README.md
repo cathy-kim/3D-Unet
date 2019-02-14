@@ -1,6 +1,11 @@
 # 3D-Unet
 3D-Unet Zoo
 
+## Preprocess 
+- CLAHE
+- Normalise 
+
+
 ## 3D-Unet Keras 
 - 3D-Unet 
 - Attention-Unet 
